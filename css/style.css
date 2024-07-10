@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(7, 192, 7);
+}
+
+.main{
+    background-color: white;
+    padding: 30px;
+    margin: 100px;
+    width: 450px;
+    height: 370px;
+    border-radius: 40px;
+    margin-left: 35%;
+
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: gray;
+    font-size: 16px;
+}
+
+.button{
+   
+    width: 150px;
+    height: 27px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.button+button{
+    border-radius: 20px;
+    width: 80px;
+    height: 25px;
+    background-color: rgb(106, 106, 214);    
+    color: white;
+    cursor: pointer;
+
+}
+
+.center{
+    margin: 20px;
+    padding: 20px;
+    line-height: 25px;
+}
+
+ .second{
+    text-decoration: line-through;
+}
+
+.into{
+    width: 400px;
+    height: 20px;
+    padding: 3px;
+    background-color: rgb(201, 196, 196);
+}
+
+.btn{
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+}
+.emptyBtn{
+    background-color:rgb(207, 48, 207);
+}
+
+.button{
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+    margin-left:  20px;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+
+}
+
+.button3{
+    border-radius: 20px;
+    width: 120px;
+    height: 30px;
+    margin-left:  15px;
+    background-color: rgb(130, 206, 17);
+    color: white;
+    cursor: pointer;
+
+
+}
+
+
+
+
+
+
+
+
+
+
